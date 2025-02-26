@@ -1,0 +1,13 @@
+numpy
+matplotlib
+opencv-python
+polars
+gdown
+shapely
+scikit-image
+torch
+tqdm
+Pillow
+scipy
+openslide-python
+patchify
